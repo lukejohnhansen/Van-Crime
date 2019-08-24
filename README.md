@@ -1,6 +1,6 @@
 # Vancouver Crime Analysis and Prediction Databricks Notebook
 
-![Alt text](van-crime.jpeg?raw=true "Logo")
+![Alt text](vancrime.png?raw=true "Logo")
 
 
 <b>What:</b>
