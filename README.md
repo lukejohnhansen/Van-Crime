@@ -1,5 +1,8 @@
 # Vancouver Crime Analysis and Prediction Databricks Notebook
 
+![Alt text](van-crime.jpeg?raw=true "Logo")
+
+
 <b>What:</b>
 A Databricks notebook that analyzes and finds the correlation between crimes and the property market.
 
